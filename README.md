@@ -1,6 +1,11 @@
 # GeoSpatial_HyperSpectral_ImageClassification
 This is the research project of GeoSpatial Hyperspectral Image Classification
 
+A Hybrid-SN deep neural network, which maps the minerals on the lunar surface with the help of HSI data, which can capture 100s of bands unlike traditional RGB images..
+
+
+
+------------------------------------------------------
 
 Unlike traditional RGB images, which only capture three bands of color (red, green, and blue), hyperspectral data can capture hundreds or even thousands of narrow and contiguous bands that cover a much wider range of the electromagnetic spectrum.
 
