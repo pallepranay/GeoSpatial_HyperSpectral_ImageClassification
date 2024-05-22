@@ -14,4 +14,15 @@ Hyperspectral Imaging collects hundreds of channels at different wavelengths for
 The collected data form a so-called hyperspectral cube, in which two dimensions represent the spatial extent of the scene and the third its spectral content. HSI has variety of applications, including remote sensing, environmental monitoring, mineral exploration, to map minerals in rocks and medical imaging in the field of computer vision 
 
 
+HSI Classification Using Acclerating CNN with Dyanamic Binary Weights - This code is attached in the repo ipynb file with the results.
+
+The research work related to the HSI Classification is accepted at IEEE IGARSS'24 Greece:
+Accepted papers titles
+are:
+1. **"ACCELERATING HYBRIDSN WITH DYNAMIC STEP QUANTIZATION FOR HSI
+CLASSIFICATION"**
+2. **"MORPHOLOGICAL CNN COMBINED WITH NOISE INCLINED MODULE AND DENOISING
+FRAMEWORK"**
+
+
 
